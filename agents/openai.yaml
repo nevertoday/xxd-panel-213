@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 213"
+  short_description: "Cool Monochrome Concept on Warm Paper"
+  default_prompt: "Use $xxd-panel-213 to transform my photograph following the complete canonical source brief."
