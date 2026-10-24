@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-213
-description: "Create Panel 213 raster artwork: Cool Monochrome Concept on Warm Paper. Use when the user invokes xxd-panel-213 or requests this specific visual language."
+description: "XXD Panel 213｜Cool Monochrome Concept on Warm Paper: distils the mood, relationship and direction of a photo into a tiny conceptual line-drawing vignette — thin, slightly hesitant hand-drawn lines, simple silhouettes, a few traces and symbolic shapes, the subject allowed to be partial — drawn in a single muted cool colour (indigo, blue-violet or grey-violet) on warm grey-beige old paper, with most of the area left empty and a few small, delicate manuscript-like words or short phrases. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-213 or asks for poetic, minimal, monochrome blue line illustration on warm paper from a photo."
 ---
 
 # XXD Panel 213

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 213｜Cool Monochrome Concept on Warm Paper: distils the mood, relationship and direction of a photo into a tiny conceptual line-drawing vignette — thin, slightly hesitant hand-drawn lines, simple silhouettes, a few traces and symbolic shapes, the subject allowed to be partial — drawn in a single muted cool colour (indigo, blue-violet or grey-violet) on warm grey-beige old paper, with most of the area left empty and a few small, delicate manuscript-like words or short phrases. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-213 or asks for poetic, minimal, monochrome blue line illustration on warm paper from a photo.",
+  "short_description": "暖纸冷色观念线稿：把照片收成暖旧纸上一枚冷色单线的诗意小品",
+  "zh-CN": {
+    "name": "暖纸冷色观念线稿",
+    "tagline": "把照片里的情绪和关系，收成暖旧纸上一枚冷色单线的诗意小品。",
+    "look": "照片里的情绪、关系和方向被提炼成一枚很小的观念插画：细而略带停顿的手绘线、简单剪影和几道轨迹，主体可以不完整，更像一个带心理暗示的符号。底色是暖灰米色的旧纸，图形和文字统一用一种低饱和冷色画，比如靛蓝、蓝紫或灰紫，靠深浅和纸张透底分出层次。大部分画面留白，用来表达空气、距离或停顿。留白里散着几个小而纤细、带手稿和旧印刷味道的字词或短句。",
+    "traits": ["冷色单色线稿", "暖旧纸底", "极小主体", "视觉隐喻", "诗性小字"],
+    "good": [
+      "有情绪或关系的瞬间：独自看海的人、并肩走路的两个人、窗边一只猫",
+      "简单的单个物件或景物：一把椅子、一棵树、一盏路灯",
+      "想做诗集插图、文章配图或私人手记的照片"
+    ],
+    "poor": [
+      "需要保留原本色彩的照片：美食、花束、彩色街景，全部会变成一种冷色",
+      "信息很多的大场景和集体照，大幅删减后难以认出",
+      "想要写实描绘、鲜艳多色或商业插画效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Cool Monochrome Concept on Warm Paper",
+    "tagline": "Distils the mood and relationships in a photo into a tiny cool-toned line drawing on warm old paper.",
+    "look": "The mood, relationship and direction in your photo become one tiny conceptual illustration: thin hand-drawn lines with small hesitations, simple silhouettes and a few traces, the subject sometimes left incomplete so it reads more like a symbol. The ground is warm grey-beige old paper, and every shape and word is drawn in one muted cool colour such as indigo, blue-violet or grey-violet, layered only through density and the paper showing through. Most of the page is left empty to suggest air, distance or a pause. A few small, delicate words or phrases with a manuscript and old-print feel are scattered in that space.",
+    "traits": ["Cool monochrome line", "Warm old paper", "Tiny subject", "Visual metaphor", "Poetic small type"],
+    "good": [
+      "Moments with mood or a relationship: someone alone by the sea, two people walking side by side, a cat at a window",
+      "Single simple objects or scenes: a chair, a tree, a street lamp",
+      "Photos you want as a poetry-book illustration, an article image or a private journal page"
+    ],
+    "poor": [
+      "Photos whose original colour matters, such as food, bouquets or colourful streets: everything becomes one cool colour",
+      "Busy wide scenes and group photos, which become hard to recognise after heavy reduction",
+      "Requests for realistic rendering, bright multicolour or a commercial illustration look"
+    ]
+  },
+  "ja": {
+    "name": "暖かな紙の寒色概念線画",
+    "tagline": "写真の気分や関係を、暖かな古紙に寒色一色で描く小さな詩的線画にします。",
+    "look": "写真の気分、関係、向きを、ごく小さな概念的イラストに抽出します。細く、ところどころ止まる手描きの線、簡単なシルエット、数本の軌跡で描き、主役は欠けていてもよく、心の記号のように見えます。地は暖かい灰色がかったベージュの古紙で、図形も文字も藍、青紫、灰紫などの低彩度の寒色一色で描き、濃淡と紙の透けで層をつくります。画面の大部分は余白で、空気や距離、間を表します。余白には、手稿や古い活字の気配がある小さく繊細な言葉や短い句が散らばります。",
+    "traits": ["寒色一色の線画", "暖かな古紙", "極小の主役", "視覚的な比喩", "詩的な小さな文字"],
+    "good": [
+      "気分や関係が感じられる瞬間：ひとりで海を見る人、並んで歩く二人、窓辺の猫",
+      "シンプルな一つの物や景色：椅子、一本の木、街灯",
+      "詩集の挿絵、記事の挿画、私的な手記にしたい写真"
+    ],
+    "poor": [
+      "元の色を残したい写真：料理、花束、カラフルな街並み（すべて一つの寒色になります）",
+      "情報の多い広い場面や集合写真（大きく削ると何かわからなくなります）",
+      "写実的な描写、鮮やかな多色、商業イラストの仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "따뜻한 종이 위 차가운 단색 개념화",
+    "tagline": "사진 속 감정과 관계를 따뜻한 옛 종이 위 차가운 단색 선의 작은 시적 그림으로 거둡니다.",
+    "look": "사진의 감정, 관계, 방향을 아주 작은 개념 일러스트로 뽑아냅니다. 가늘고 군데군데 머뭇거리는 손그림 선, 간단한 실루엣, 몇 개의 궤적으로 그리며, 주인공은 일부만 있어도 되어 마음의 기호처럼 보입니다. 바탕은 따뜻한 회베이지 옛 종이이고, 도형과 글자는 모두 남색, 청보라, 회보라 같은 채도 낮은 차가운 색 하나로 그리며 농담과 종이 비침으로 층을 만듭니다. 화면 대부분은 여백으로 남겨 공기, 거리, 멈춤을 표현합니다. 여백에는 원고나 옛 활자 느낌의 작고 섬세한 단어나 짧은 구절이 흩어져 있습니다.",
+    "traits": ["차가운 단색 선화", "따뜻한 옛 종이", "아주 작은 주인공", "시각적 은유", "시적인 작은 글자"],
+    "good": [
+      "감정이나 관계가 있는 순간: 혼자 바다를 보는 사람, 나란히 걷는 두 사람, 창가의 고양이",
+      "단순한 하나의 사물이나 풍경: 의자, 나무 한 그루, 가로등",
+      "시집 삽화, 글 삽화, 개인 수기로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "원래 색을 살려야 하는 사진: 음식, 꽃다발, 알록달록한 거리(모두 차가운 색 하나가 됩니다)",
+      "정보가 많은 넓은 장면과 단체 사진(크게 덜어내면 알아보기 어렵습니다)",
+      "사실적인 묘사, 화려한 다색, 상업 일러스트 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم مفاهيمي بارد على ورق دافئ",
+    "tagline": "يكثّف مزاج الصورة وعلاقاتها في رسم خطي صغير بلون بارد واحد على ورق قديم دافئ.",
+    "look": "يتحوّل مزاج صورتك وعلاقاتها واتجاهها إلى رسم مفاهيمي صغير جداً: خطوط يدوية رفيعة فيها توقفات خفيفة، وظلال بسيطة، وبضعة مسارات، وقد يبقى العنصر ناقصاً فيبدو أقرب إلى رمز. الخلفية ورق قديم بلون بيج رمادي دافئ، وكل شكل وكلمة مرسوم بلون بارد خافت واحد مثل النيلي أو البنفسجي المزرق أو البنفسجي الرمادي، وتتدرج الطبقات بكثافة الخط وشفافية الورق وحدهما. يبقى معظم الصفحة فارغاً ليوحي بالهواء أو المسافة أو التوقف. وتتناثر فيه كلمات أو عبارات قليلة صغيرة رقيقة لها روح المخطوطة والطباعة القديمة.",
+    "traits": ["خط أحادي بارد", "ورق قديم دافئ", "عنصر صغير جداً", "استعارة بصرية", "كتابة شعرية صغيرة"],
+    "good": [
+      "لحظات فيها مزاج أو علاقة: شخص وحيد أمام البحر، اثنان يمشيان جنباً إلى جنب، قطة عند النافذة",
+      "شيء واحد بسيط أو منظر واحد: كرسي، شجرة، عمود إنارة",
+      "صور تريدها رسماً لديوان شعر أو لمقال أو صفحة في دفتر خاص"
+    ],
+    "poor": [
+      "صور يهمّ فيها اللون الأصلي مثل الطعام وباقات الزهور والشوارع الملونة، إذ يتحول كل شيء إلى لون بارد واحد",
+      "مشاهد واسعة مزدحمة وصور جماعية يصعب التعرف عليها بعد الحذف الكبير",
+      "طلب رسم واقعي أو ألوان زاهية متعددة أو مظهر رسم تجاري"
+    ]
+  }
+}

@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 213"
-  short_description: "Cool Monochrome Concept on Warm Paper"
-  default_prompt: "Use $xxd-panel-213 to transform my photograph following the complete canonical source brief."
+  short_description: "暖纸冷色观念线稿：把照片收成暖旧纸上一枚冷色单线的诗意小品"
+  default_prompt: "Use $xxd-panel-213 to turn my photo into Cool Monochrome Concept on Warm Paper artwork."
